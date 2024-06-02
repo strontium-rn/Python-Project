@@ -1,1 +1,1 @@
-Hello, I'm Aarya Pathak. A 1st year Computer Science student in Kathmandu University. My zeal for learning data science and to acquire knowledge about AI and Machine Learning had always been prominent. I look forward starting my own start up and bringing change in the education system of Nepal using my expertise in AI, which sonner or later will surely be a reality.
+Learning EDA
